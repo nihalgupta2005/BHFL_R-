@@ -3,3 +3,5 @@ node_modules/
 dist/
 client/node_modules/
 client/dist/
+.netlify/
+client/.netlify/
